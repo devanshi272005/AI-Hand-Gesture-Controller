@@ -1,5 +1,5 @@
 # 🤖 AI Hand Gesture Controller
-![AI Hand Gesture Controller Demo](demo.png)
+
 An AI-powered hand gesture recognition system that uses a webcam to detect hand gestures in real time and control computer media functions without using a keyboard or mouse.
 
 ## ✨ Features
@@ -23,6 +23,17 @@ An AI-powered hand gesture recognition system that uses a webcam to detect hand 
 | 🖐️ Open Palm | Play / Pause    |
 | ✌️ Peace      | Next Track      |
 | ☝️ One Finger | Previous Track  |
+
+## 📸 Demo
+
+### 🖐️ Open Palm — Play / Pause
+
+![Open Palm Gesture](demo-open-palm.png)
+
+### 👍 Thumbs Up — Volume Up
+
+![Thumbs Up Gesture](demo-thumbs-up.png)
+
 
 ## 🛠️ Technologies Used
 
