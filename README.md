@@ -1,5 +1,5 @@
 # 🤖 AI Hand Gesture Controller
-
+![AI Hand Gesture Controller Demo](demo.png)
 An AI-powered hand gesture recognition system that uses a webcam to detect hand gestures in real time and control computer media functions without using a keyboard or mouse.
 
 ## ✨ Features
